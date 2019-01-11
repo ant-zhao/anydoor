@@ -1,0 +1,29 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "静态资源服务器测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ant-zhao/anydoor.git"
+  },
+  "author": "zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ant-zhao/anydoor/issues"
+  },
+  "homepage": "https://github.com/ant-zhao/anydoor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-react": "^7.12.3",
+    "pre-commit": "^1.2.2"
+  }
+}
