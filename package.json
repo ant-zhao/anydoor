@@ -18,7 +18,9 @@
     "url": "https://github.com/ant-zhao/anydoor/issues"
   },
   "homepage": "https://github.com/ant-zhao/anydoor#readme",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.12.0",
